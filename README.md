@@ -1,2 +1,2 @@
-Mutation, Selection, and Evolvability in the Immigration Game
+Evolution of Spots and Stripes in Cellular Automata
 
